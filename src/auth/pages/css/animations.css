@@ -1,0 +1,8 @@
+.isLoading{
+  -webkit-transition: 1s linear;
+  transition: 1s linear;
+}
+.isLoading:hover{
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
